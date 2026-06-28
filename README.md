@@ -1,4 +1,8 @@
-# `cdrhelper` — Make and analyze fake CDR data
+20130101;26;357;9;40.7;23;9
+20130101;52;504;15;73.3;30;24
+20130101;89;158;24;64.6;22;14
+20130101;235;447;19;122.7;30;12
+20130101;293;849;15;18.7;31;12# `cdrhelper` — Make and analyze fake CDR data
 ## Introduction
 Just a small, simple Python package I made to help people simulate, import, and analyze network data -- 
 specifically, network data represented in the form of call detail records (CDR) aggregated up to the day level.
